@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://avs7318.github.io/csb-h62su/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://avs7318.github.io/csb-h62su/static/js/main.de52147a.chunk.js",
+    "main.js.map": "https://avs7318.github.io/csb-h62su/static/js/main.de52147a.chunk.js.map",
+    "runtime-main.js": "https://avs7318.github.io/csb-h62su/static/js/runtime-main.7fc58b07.js",
+    "runtime-main.js.map": "https://avs7318.github.io/csb-h62su/static/js/runtime-main.7fc58b07.js.map",
+    "static/js/2.578939c8.chunk.js": "https://avs7318.github.io/csb-h62su/static/js/2.578939c8.chunk.js",
+    "static/js/2.578939c8.chunk.js.map": "https://avs7318.github.io/csb-h62su/static/js/2.578939c8.chunk.js.map",
+    "index.html": "https://avs7318.github.io/csb-h62su/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://avs7318.github.io/csb-h62su/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.578939c8.chunk.js.LICENSE.txt": "https://avs7318.github.io/csb-h62su/static/js/2.578939c8.chunk.js.LICENSE.txt",
+    "static/media/ithaca.72c4e549.jpg": "https://avs7318.github.io/csb-h62su/static/media/ithaca.72c4e549.jpg",
+    "static/media/nyc.0302e2d0.jpg": "https://avs7318.github.io/csb-h62su/static/media/nyc.0302e2d0.jpg",
+    "static/media/sf.919c8f14.jpg": "https://avs7318.github.io/csb-h62su/static/media/sf.919c8f14.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fc58b07.js",
+    "static/js/2.578939c8.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.de52147a.chunk.js"
+  ]
+}
